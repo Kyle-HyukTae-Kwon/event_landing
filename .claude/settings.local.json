@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp \"/c/Users/gurxo/AppData/Local/Temp/claude/6227a763ee2baf92/619a5be5-6758-435e-8b04-5a24a5208e25/images/2.webp\" \"/c/Users/gurxo/OneDrive/바탕 화면/event_landing/images/stadium.webp\" && ls -la \"/c/Users/gurxo/OneDrive/바탕 화면/event_landing/images\")",
+      "Bash(py --version)",
+      "Bash(file images/*)",
+      "Bash(cp index.html \"/c/Users/gurxo/AppData/Local/Temp/claude/8b0c1ea6c891659b/619a5be5-6758-435e-8b04-5a24a5208e25/scratchpad/index.before-embed.html\")",
+      "Bash(py -I -)",
+      "Bash(py -I -c \"import PIL; print\\(PIL.__version__\\)\")",
+      "Bash(command -v cwebp magick ffmpeg)",
+      "Bash(py -m pip install --user --quiet pillow)",
+      "Bash(py \"/c/Users/gurxo/AppData/Local/Temp/claude/8b0c1ea6c891659b/619a5be5-6758-435e-8b04-5a24a5208e25/scratchpad/shrink.py\" \"/c/Users/gurxo/OneDrive/바탕 화면/event_landing\" \"/c/Users/gurxo/AppData/Local/Temp/claude/8b0c1ea6c891659b/619a5be5-6758-435e-8b04-5a24a5208e25/scratchpad/index.before-embed.html\")"
+    ]
+  }
+}
